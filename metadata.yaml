@@ -1,0 +1,35 @@
+_repo: Gossip-in-a-Library_11628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Introductory -- Camden's "Britannia" -- A mirror for magistrates
+  -- A poet in prison -- Death's duel -- Gerard's Herbal -- Pharamond -- A volume
+  of old plays -- A censor of poets --  Lady Winchilsea's poems -- Amasia -- Love
+  and business -- What Ann Lang read -- Cats -- Smart's poems --  Pompey the Little
+  -- The life of John Buncle -- Beau Nash -- The natural history of Selborne -- The
+  diary of a lover of literature -- Peter Bell and his tormentors -- The fancy --
+  Ultra-crepidarius -- The Duke of Rutland's poems -- Ionica -- The shaving of Shagpat.
+title: Gossip in a Library
+url: http://www.gutenberg.org/ebooks/11628
